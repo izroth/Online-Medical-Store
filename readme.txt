@@ -4,7 +4,7 @@ FIRST Download
 
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2.Use Visual Studios for editior
 
 3"medical"
 
@@ -26,7 +26,7 @@ FIRST Download
 **LOGIN DETAILS**
 
 Admin
-user: admin@gmail.com
+user: lakhan@gmail.com
 pass: admin
 
 ****** https:1sourcecodr.blogspot.com ******
