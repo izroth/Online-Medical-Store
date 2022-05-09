@@ -29,5 +29,3 @@ Admin
 user: lakhan@gmail.com
 pass: admin
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
