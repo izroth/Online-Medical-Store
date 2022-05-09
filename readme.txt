@@ -18,7 +18,7 @@ FIRST Download
 
 8. Create a database with name store
 
-6. Import store.sql file(given inside the zip package in SQL file folder)
+6. Import store.sql file
 
 7.Run the script http://localhost/medical
 
